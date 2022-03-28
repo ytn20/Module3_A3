@@ -1,0 +1,42 @@
+# PyPoll with Python
+
+## Overview of Election Audit
+
+### Purpose
+
+The purpose of this assignment was to analyze election results for Seth and Tom's election audit. By using the Python program to analyze the election results data
+we are able to uncover some key findings such as voter turnout, perecentage of voters from each county, and the highest turnout from each county. 
+This information can help auditos like Seth and Tom for current and future election campaigns. 
+
+## Election-Audit Results:
+
+### - How many votes were cast in this congressional election?
+      - The total number of casted votes in this congressional election was 369,711.
+ 
+### - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+      - For Jefferson county there were a total of 38,855 votes casted which made up 10.5% of the total votes casted.
+      - For Denver county there were a total of 306,055 votes casted which made up 82.8% of the total votes casted.
+      - For Arapahoe county there were a total of 24,801 votes casted which made up 6.7% of the total votes casted.
+
+### - Which county had the largest number of votes?
+      - The county with the largest number of casted votes was Denver county.
+
+### - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+      - Charles Casper Stockham received a total of 85,213 votes which made up 23.0% of the total votes casted.
+      - Diana DeGette received a total of 272,892 votes which made up 73.8% of the total votes casted.
+      - Raymon Anthony Doane received a total of 11,606 votes which made up 3.1% of the total votes casted.      
+
+### - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+      - Diana DeGette won the election. Diana DeGette received a total of 272,892 votes which made up 73.8% of the total votes casted.            
+    
+
+## Election-Audit Summary
+    - This script is very useful while analyzing future elections. It can be modified to be used for any election in the future. 
+      A few changes that can be made to the script if it's to be used for future elections are as follows: 
+        - Change the csv file that needs to be uploaded to the python script. In this analysis the "election_results.csv" file was used
+        but for future elections a new file would need to be uploaded to the script.
+        - Change the txt file where the edits are saved from the python script. In this analysis the changes were saved to
+        "election_results.txt" file but for future elections the changes would need to be saved to another text file to avoid
+        any confusion while analyzing the data
+       
+
